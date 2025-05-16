@@ -22,3 +22,32 @@
     
 //     return 0;
 // }
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+/* Ques 2: Write a Program to Find the Greatest of the Three Numbers. */
+
+// #include <iostream>
+// using namespace std;
+    
+// int main() {
+//     int num1, num2, num3;
+//     cout << "Enter three numbers: ";
+//     cin >> num1 >> num2 >> num3;
+    
+//     int greatest = num1;
+
+//     if (num2 > greatest) {
+//         greatest = num2;
+//     }
+//     if (num3 > greatest) {
+//         greatest = num3;
+//     }
+    
+//     cout << greatest << " is the greatest number." << endl;
+//     return 0;
+// }
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------//
