@@ -51,3 +51,47 @@
 
 
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------//
+
+
+/* Ques 3: C++ Program To Check Whether Number is Even Or Odd. */
+
+// #include <iostream>
+// using namespace std;
+    
+// int main() {
+//     int num;
+//     cout << "Enter a number: ";
+//     cin >> num;
+
+//     if (num % 2 == 0)
+//         cout << num << " is even.";
+//     else
+//         cout << num << " is odd.";
+
+//     return 0;
+// }
+
+
+/* ------------ Approach 2 ------------ */
+
+// #include <iostream>
+// using namespace std;
+
+// // Returns true if n is even, else odd
+// bool isEven(int n) { return (n % 2 == 0); }
+
+// // Driver code
+// int main() {
+//     int n = 247;
+//     if (isEven(n) == true) {
+//         cout << "Even" << endl;
+//     }
+//     else {
+//         cout << "Odd";
+//     }
+
+//     return 0;
+// }
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------//
